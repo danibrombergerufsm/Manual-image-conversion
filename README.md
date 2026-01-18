@@ -44,7 +44,7 @@ Ideal para estudos em **Google Colab** ou ambientes educacionais onde se deseja 
 
 ## ▶️ Como usar (no Google Colab)
 
-1. Faça upload de uma imagem (ex: `minha_imagem.jpg`) no Colab.
+1. Faça upload de uma imagem (ex: `minha_imagem.png`) no Colab.
 2. Substitua o caminho no código:
 
 ```python
